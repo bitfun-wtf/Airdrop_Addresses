@@ -14,3 +14,5 @@ BRC420: BRC420, Mineral, This song about NFTs, Dragon Ball, Blue wand
 ARC20: $atom, $quark
 
 SRC20: $STAMP, $KEVIN, $UTXO    
+
+DID: .btc
