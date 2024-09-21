@@ -3,7 +3,7 @@ Snapshot of BRC20, Ordinals NFT, Runes, BRC420, ARC20, and SRC20 assets
 
 The following are the assets involved in the snapshot:
 
-BRC20: $pizza, $wzrd, $ordi, $rats, $sats, $Ainn, $BTCs, $π, $ligo, $core, $ELIF, $mice, $MMSS, $cats, $AMB%20, $aisi, $LONG, $PUPS, $piin, $slor, $DeAI, $trac
+BRC20: $pizza, $wzrd, $ordi, $rats, $sats, $Ainn, $BTCs, $π, $ligo, $core, $ELIF, $mice, $MMSS, $cats, $AMB%20, $aisi, $LONG, $PUPS, $piin, $slor, $DeAI, $trac, $merm
 
 Ordinals NFT: RuneStone, NodeMonkes, QuantumCats, BitcoinPuppets, Bitcoin Wizards, OrdinalMaxiBiz (OMB), Blob, BitcoinFrog, RSICMETAPROTOCOL, BEVMWhitepaper, bitDisc-Black (bitSmiley OG), RatsFriend, BitBoy, Bitmap, UniWorlds: Key of Destiny, Goosinals, PIZZA RHINOS
 
